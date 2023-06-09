@@ -1,5 +1,6 @@
 import React from "react";
-
+import About from './About';
+import {Routes,Route,Link} from 'react-router-dom'
 
 export default function Home(){
     return <div>
@@ -248,7 +249,12 @@ export default function Home(){
 
     <div className='pages'>
       <h2>Pages</h2>
-      <h5>About Us</h5>
+      <h5>
+      <Link to='/about' id="Link">About Us</Link></h5>
+      <Routes>
+      <Route path='/about' element={<About/>} />
+      </Routes>
+      
       <h5>Our Projects</h5>
       <h5>Our Team</h5>
       <h5>Contact US</h5>
@@ -276,16 +282,6 @@ export default function Home(){
   <h1 id='copy'>Copyright © Interno | Designed by Victorflow Templates - Powered by Webflow</h1>
 
 </div>
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -195,6 +195,7 @@ export default function Home(){
   <h1>Artlies & News</h1>
   <h6>It is a long established fact that a reader will be distracted by the of readable content of a page when lookings at its layouts the points of using.</h6>
 </div>
+{/* --------------blog----------------- */}
 <center>
 <div className='blog'>
   <div className='blog_1'>
@@ -204,8 +205,6 @@ export default function Home(){
     <a href='#'><img src='./img/vec.png' id='v' /></a>
 
   </div>
-
-{/* --------------blog----------------- */}
 
 <div className='blog'>
   <div className='blog_1 blg_2'>

@@ -37,7 +37,7 @@ export default function Project(){
         </div>
 {/*---------------------3---------------------------*/}
         <div id='gall_3'>
-        <img src='img/gall_2.png' />
+        <img src='img/gall_3.png' />
 
         <div id='head_3'>
        <h1>Minimal Bedroom</h1>
@@ -47,7 +47,7 @@ export default function Project(){
         </div>
 {/*---------------------4-------------------------  */}
         <div id='gall_4'>
-        <img src='img/gall_1.png' />
+        <img src='img/gall_4.png' />
        <div id='head_4'>
        <h1>Minimal Bedroom</h1>
         <h3>Decor / Artchitecture</h3>
@@ -56,7 +56,7 @@ export default function Project(){
         </div>
 {/*---------------------5--------------------------  */}
         <div id='gall_5'>
-        <img src='img/gall_1.png' />
+        <img src='img/gall_5.png' />
        <div id='head_5'>
        <h1>Minimal Bedroom</h1>
         <h3>Decor / Artchitecture</h3>
@@ -65,7 +65,7 @@ export default function Project(){
         </div>
 {/* ---------------------------6----------------------- */}
         <div id='gall_6'>
-        <img src='img/gall_2.png' />
+        <img src='img/gall_6.png' />
 
         <div id='head_6'>
        <h1>Minimal Bedroom</h1>
@@ -75,7 +75,7 @@ export default function Project(){
         </div>
 {/*---------------------------7----------------------------  */}
         <div id='gall_7'>
-        <img src='img/gall_2.png' />
+        <img src='img/gall_7.png' />
 
         <div id='head_7'>
        <h1>Minimal Bedroom</h1>
@@ -85,7 +85,7 @@ export default function Project(){
         </div>
 {/*-----------------------------8-----------------------------  */}
         <div id='gall_8'>
-        <img src='img/gall_2.png' />
+        <img src='img/gall_8.png' />
 
         <div id='head_8'>
        <h1>Minimal Bedroom</h1>
@@ -99,9 +99,9 @@ export default function Project(){
 <div className="pagination">
     <a href=''><img src='img/pagi_1.png' /></a>
     <a href=''><img src='img/pagi_2.png' /></a>
-    <a href=''><img src='img/pagi_1.png' /></a>
+    <a href=''><img src='img/pagi_3.png' /></a>
     
-    <img src='img/pagi_Vect.png' id='pagi_vect'/>
+    <img src='img/pagi_vect.png' id='pagi_vect'/>
 
 </div>
 {/* ------------FOOTER------------------------------------------- */}

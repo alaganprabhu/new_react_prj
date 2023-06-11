@@ -199,7 +199,7 @@ export default function Home(){
 <center>
 <div className='blog'>
   <div className='blog_1'>
-    <img src='./img/blog1.png'/>
+    <img src='./img/blog_1.png'/>
     <h2>Let’s Get Solution For Building Construction Work</h2>
     <h6>26 December,2022</h6>
     <a href='#'><img src='./img/vec.png' id='v' /></a>
@@ -208,7 +208,7 @@ export default function Home(){
 
 <div className='blog'>
   <div className='blog_1 blg_2'>
-    <img src='./img/blog1.png'/>
+    <img src='./img/blog_2.png'/>
     <h2>Low Cost Latest Invented Interior Designing <br/>Ideas.</h2>
     <h6>26 December,2022</h6>
     <a href='#'><img src='./img/2_vect.png' id='vect' /></a>
@@ -216,7 +216,7 @@ export default function Home(){
 </div>
 <div className='blog'>
   <div className='blog_1'>
-    <img src='./img/blog1.png'/>
+    <img src='./img/blog_3.png'/>
     <h2>Best For Any Office & Business Interior Solution</h2>
     <h6>26 December,2022</h6>
     <a href='#'><img src='./img/vec.png' id='v' /></a>

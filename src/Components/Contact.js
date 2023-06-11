@@ -47,7 +47,7 @@ export default function Contact(){
 {/* ----------------------MAp--------------------- */}
 
 <div className="map">
-    <img src='img/map.png' />
+    <img src='img/Map.png' />
 </div>
 
 {/* ------------FOOTER------------------------------------------- */}

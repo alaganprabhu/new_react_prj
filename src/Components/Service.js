@@ -80,7 +80,7 @@ export default function Service(){
 
             <div className="post">
                 <div className="ico">
-                <img src="img/icon.png" id='icon'/>
+                <img src="img/Icon.png" id='icon'/>
                 <img src="img/01.png" id='i'/>
                 </div>
                 
@@ -97,7 +97,7 @@ export default function Service(){
 
             <div className="post">
                 <div className="ico">
-                <img src="img/icon2.png" id='icon'/>
+                <img src="img/Icon2.png" id='icon'/>
                 <img src="img/02.png" id='i'/>
                 </div>
                 
@@ -119,7 +119,7 @@ export default function Service(){
 
             <div className="post">
                 <div className="ico">
-                <img src="img/icon3.png" id='icon'/>
+                <img src="img/Icon3.png" id='icon'/>
                 <img src="img/03.png" id='i'/>
                 </div>
                 
@@ -134,7 +134,7 @@ export default function Service(){
 
             <div className="post">
                 <div className="ico">
-                <img src="img/icon4.png" id='icon'/>
+                <img src="img/Icon4.png" id='icon'/>
                 <img src="img/04.png" id='i'/>
                 </div>
                 

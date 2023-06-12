@@ -89,7 +89,7 @@ export default function Blog(){
     <a href=''><img src='img/pagi_2.png' /></a>
     <a href=''><img src='img/pagi_3.png' /></a>
     
-    <img src='img/pagi_Vect.png' id='nxt'/>
+    <img src='img/pagi_vect.png' id='pagi_vect'/>
 
 </div>
 {/* ---------------FOOTER------------------------------------- */}
